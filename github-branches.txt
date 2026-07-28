@@ -1,0 +1,4 @@
+ben@Ben:~/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert f2214ca [origin/bug-fix-revert] Revert "Switching date typo from 2022 to 2023"
+  bug-fix-typo   f669102 [origin/bug-fix-typo] Switching date typo from 2022 to 2023
+  main           f669102 [origin/main: ahead 1] Switching date typo from 2022 to 2023
